@@ -1,5 +1,8 @@
 <h1>Hi, I'm Gabrielle! <br/> <a href="https://www.linkedin.com/in/gabrielle-williams-699b90324/">Cybersecurity Professional</a>
 
+- 📫 How to reach me: gabriellecwilliams99@gmail.com
+- 😄 Pronouns: She/Her
+
 <h2> Certifications:</h2>
 
 - <b>ISC2 </b>
@@ -25,6 +28,10 @@
 
 [linkedin]: https://www.linkedin.com/in/gabrielle-williams-699b90324/
 
+
+
+
+⚡ I’m looking for help with building a long-term career in the cybersecurity space.
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +42,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: gabriellecwilliams99@gmail.com
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
