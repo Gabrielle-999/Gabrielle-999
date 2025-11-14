@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabrielle! <br/> <a href="www.linkedin.com/in/gabrielle-williams-699b90324/">Cybersecurity Professional</a>
+<h1>Hi, I'm Gabrielle! <br/> <a href="https://www.linkedin.com/in/gabrielle-williams-699b90324/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
