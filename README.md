@@ -13,8 +13,13 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/gabrielle-williams-699b90324/  📫 Email: gabriellecwilliams99@gmail.com
+[linkedin]: https://www.linkedin.com/in/gabrielle-williams-699b90324/  
 
+
+📫 Email: gabriellecwilliams99@gmail.com
+
+
+⚡ I’m looking for help with building a long-term career in the cybersecurity space.
 
 <h2> Certifications:</h2>
 
