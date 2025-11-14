@@ -5,9 +5,9 @@
 - <b>ISC2 </b>
   - [Certified in Cybersecurity](https://www.credly.com/badges/dc25f227-0aad-4032-98b4-636e48c92482/public_url)
 - <b>CompTIA</b>
-  - [Security+](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Security+](https://www.credly.com/badges/f0382559-95cd-4116-9394-047dd9dcbdfe/public_url)
 - <b>Google</b>
-  - [Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Cybersecurity Professional Certificate](https://www.credly.com/badges/9f651700-7dca-4d94-89ce-554d72b4b20a/public_url)
 
 <h2>Cybersecurity Projects</h2>
 
