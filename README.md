@@ -12,7 +12,7 @@
 📫 Email: gabriellecwilliams99@gmail.com
 
 
-⚡ I’m looking for help with building a long-term career in the cybersecurity space.
+⚡ I’m looking to build a long-term career in the cybersecurity space.
 
 <h2> Certifications:</h2>
 
