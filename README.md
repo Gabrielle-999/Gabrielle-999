@@ -30,7 +30,7 @@ Completing the Google Cybersecurity Certificate has allowed me to gain knowledge
 &emsp;
       
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Access control worksheet](https://docs.google.com/document/d/1gcp1VF8BXEQfK7EVJ_K6PAeqpOrpgeibfFtpsslmZ0w/edit?tab=t.0#heading=h.7nlk2ynsm6vx)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
