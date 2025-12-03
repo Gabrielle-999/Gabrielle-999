@@ -31,9 +31,9 @@ Completing the Google Cybersecurity Certificate has allowed me to gain knowledge
       
 
 - [Access control worksheet](https://docs.google.com/document/d/1gcp1VF8BXEQfK7EVJ_K6PAeqpOrpgeibfFtpsslmZ0w/edit?tab=t.0#heading=h.7nlk2ynsm6vx)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Apply filters to SQL queries](https://docs.google.com/document/d/1LH0UJVc44iyEOUEw9aM5uK-6uRyWw--7JC-67GLUxP8/edit?resourcekey=0-hxmDdnS0dfv32KY3S81Gxw&tab=t.0#heading=h.adnh333husy)
+- [Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1Du_ndJ9ZBcHmr2CBRv_x4W3_moBPJsDJG9NAG1b6kFY/edit?tab=t.0#heading=h.evidx83t54sc)
+- [Brute force security incident report](https://docs.google.com/document/d/1j9XWlgGV5gisU7qCyLp1-F6o_it45deMY1mRBqT1ezQ/edit?resourcekey=0-wZ4AN8ynNp6Y7Py3hphYbA&tab=t.0#heading=h.1wxj3sdlx0rd)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
