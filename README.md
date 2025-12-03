@@ -24,8 +24,8 @@
   - [Cybersecurity Professional Certificate](https://www.credly.com/badges/9f651700-7dca-4d94-89ce-554d72b4b20a/public_url)
 
 <h2> Google Cybersecurity Professional Certificate Projects</h2>
-- Completing the Google Cybersecurity Certificate has allowed me to gain knowledge of networking protocols and basic Python scripting, understanding of threat analysis and vulnerability management, and familiarity with cybersecurity tools. I have also been able to practice using tools like tcpdump, Wireshark, Suricata, Chronicle, Splunk, and VirusTotal. I would be able to apply the knowledge that I have gained through my certification studies to monitoring and analyzing security events using SIEM tools, investigating potential security incidents, and documenting processes, findings, and resolutions.
-
+Completing the Google Cybersecurity Certificate has allowed me to gain knowledge of networking protocols and basic Python scripting, understanding of threat analysis and vulnerability management, and familiarity with cybersecurity tools. I have also been able to practice using tools like tcpdump, Wireshark, Suricata, Chronicle, Splunk, and VirusTotal. I would be able to apply the knowledge that I have gained through my certification studies to monitoring and analyzing security events using SIEM tools, investigating potential security incidents, and documenting processes, findings, and resolutions.
+      
 
 
 
